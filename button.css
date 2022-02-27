@@ -1,0 +1,20 @@
+
+
+.btn {
+  color: white;
+  padding: 10px 10px;
+  border-radius: 4px;
+  font-weight: bold ;
+  background: #4267B2;
+}
+
+.btn a {
+  font-family: helvetica;
+  color: white;
+}
+
+.btn:hover a {
+  opacity: 1;
+  text-decoration: none;
+  color: white;
+}
